@@ -1,3 +1,3 @@
 # Discordians
 
-More information about this bot coming shortly! (stay tuned e)
+Hey 👋 , I am currently working on this project, and hopefully will be done by the end of this month!
