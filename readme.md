@@ -1,6 +1,6 @@
 # Discordians
 
-**DISCLAIMER: Hey 👋 , I am currently working on this project, and hopefully will be done by the end of this year! I am doing the Documentation at the moment, Some parts of the code are now out!**
+**DISCLAIMER: Hey 👋 , I am currently working on this project, and hopefully will be done by the end of this year! I am doing the Documentation at the moment, Some parts of the code are coming next week.**
 
 Discordians is a Discord Bot that has moderation commands, Economy Commands and even an Levelling System, which is __all__ connected to [MongoDB (Atlas)](https://mongodb.com) and is lightweight and not filled with a bunch of useless and unnessary commands! To see Documentation, [click here](https://github.com/oofquest/Disordians#setup) or scroll down
 
