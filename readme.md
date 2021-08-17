@@ -7,7 +7,7 @@ Discordians is a Discord Bot that has moderation commands, and some fun commands
 
 ### Setup
 
-Firstly, let's download this. Either press this link https://github.com/oofquest/Disordians/archive/refs/heads/master.zip or if you have git installed on your computer do this following command on your terminal and make sure to make a directory/folder before running this command:
+Firstly, let's download this. Either [click here](https://github.com/oofquest/Disordians/archive/refs/heads/master.zip) or if you have git installed on your computer do this following command on your terminal and make sure to make a directory/folder before running this command:
 
 ```js 
 git clone https://github.com/oofquest/Disordians
