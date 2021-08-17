@@ -4,6 +4,7 @@
 
 Discordians is a Discord Bot that has moderation commands, and some fun commands and is connected with MongoDB!
 
+# Documentation
 
 ### Setup
 
