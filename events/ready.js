@@ -8,7 +8,7 @@ client.on("ready", async () => {
 
     var figlet = require('figlet');
  
-    figlet('Cub0rd Assistant', function(err, data) {
+    figlet('Discordians', function(err, data) { // renamed to discordians oops
         if (err) {
             console.log('Error has been present');
             console.dir(err);
