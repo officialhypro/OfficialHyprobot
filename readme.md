@@ -16,6 +16,14 @@ git clone https://github.com/oofquest/Disordians
 ```
 You now may see a bunch of files and folders. Well, go to the [configure](https://github.com/oofquest/Discordians/tree/master/configure) folder, then to [config.json](https://github.com/oofquest/Discordians/tree/master/configure/config.json). You will now see the following:
 
-![image](https://user-images.githubusercontent.com/46395745/129823657-3bd75197-2a43-481e-bc78-2a4616b42cff.png)
+![image](https://user-images.githubusercontent.com/46395745/129903457-6295bf45-01c4-456e-9787-13ef88b6d1d6.png)
 
-Now, let's make a Discord Bot by going to Discord's Developers Portal by clicking this link https://discord.com/developers/applications, and then make a bot and copy the token and paste it to the tokens config.
+Now, let's make a Discord Bot by going to Discord's Developers Portal by clicking this link https://discord.com/developers/applications, then create a new application by clicking on new application on the top right of your screen.
+
+![image](https://user-images.githubusercontent.com/46395745/129903700-2b087e93-b100-4944-9a49-05b42980f8da.png)
+
+now when done, go to your applications underneath "My Applications" and select your application that you wish to use. Now, let's create a bot by pressing bot on the left side on your screen.
+
+![image](https://user-images.githubusercontent.com/46395745/129903948-bcde695c-b2dd-4c2b-871e-b25f6c4c26ca.png)
+
+When clicked, you must click "create a bot" inorder to use this.
