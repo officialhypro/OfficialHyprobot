@@ -1,7 +1,7 @@
 const { client } = require('../main.js');
-const { mongo_url }= require("../settings/secret.json");
+const { mongo_url }= require("../configure/config.json");
 const chalk = require("chalk");
-const muteModel = require('../models/mute');
+const muteModel = require('../schemas/mute');
 const mongoose = require("mongoose");
 
 client.on("ready", async () => {
