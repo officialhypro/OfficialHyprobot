@@ -4,7 +4,7 @@ const info = require("./configure/config.json");
 
 client.commands = new Discord.Collection();
 
-const load = require("./load/functions");
+const load = require("./load/function");
 load.setup(client);
 
 module.exports.client = client;
