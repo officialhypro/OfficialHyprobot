@@ -14,7 +14,7 @@ Firstly, let's download this. Either [click here](https://github.com/oofquest/Di
 ```py
 git clone https://github.com/oofquest/Disordians
 ```
-You now may see a bunch of files and folders. Well, go to the [configure](https://github.com/oofquest/Discordians/configure) folder, then to [config.json](https://github.com/oofquest/Discordians/configure/config.json). You will now see the following:
+You now may see a bunch of files and folders. Well, go to the [configure](https://github.com/oofquest/Discordians/tree/master/configure) folder, then to [config.json](https://github.com/oofquest/Discordians/tree/master/configure/config.json). You will now see the following:
 
 ![image](https://user-images.githubusercontent.com/46395745/129823657-3bd75197-2a43-481e-bc78-2a4616b42cff.png)
 
